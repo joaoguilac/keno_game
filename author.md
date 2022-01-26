@@ -4,8 +4,8 @@ Este é um dos projetos propostos na disciplina de Linguagem de Programação I 
 
 # Author(s)
 
-- Aluno: João Guilherme Lopes Alves da Costa (joguicosta@hotmail.com)
-- Aluno: João Pedro Fonseca Dantas (joaopedrofdantas@tutanota.com)
+- Aluno: João Guilherme Lopes Alves da Costa (joguicosta@hotmail.com) <a href="https://github.com/joaoguilac">@joaoguilac</a>
+- Aluno: João Pedro Fonseca Dantas (joaopedrofdantas@tutanota.com) <a href="https://github.com/jopefd">@jopefd</a>
 
 # Problems found or limitations
 
